@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="error.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="error0000" x="0" y="0" width="1920" height="1397"/>
+	<SubTexture name="error0001" x="0" y="0" width="1920" height="1397"/>
+	<SubTexture name="error0002" x="0" y="1397" width="1920" height="1397"/>
+	<SubTexture name="error0003" x="0" y="1397" width="1920" height="1397"/>
+	<SubTexture name="error0004" x="0" y="2794" width="1920" height="1397"/>
+	<SubTexture name="error0005" x="0" y="2794" width="1920" height="1397"/>
+	<SubTexture name="error0006" x="0" y="4191" width="1920" height="1397"/>
+	<SubTexture name="error0007" x="0" y="4191" width="1920" height="1397"/>
+	<SubTexture name="error0008" x="0" y="5588" width="1920" height="1397"/>
+	<SubTexture name="error0009" x="0" y="5588" width="1920" height="1397"/>
+	<SubTexture name="error0010" x="0" y="5588" width="1920" height="1397"/>
+	<SubTexture name="error0011" x="0" y="5588" width="1920" height="1397"/>
+	<SubTexture name="error0012" x="0" y="5588" width="1920" height="1397"/>
+	<SubTexture name="error0013" x="0" y="5588" width="1920" height="1397"/>
+	<SubTexture name="error0014" x="0" y="0" width="1920" height="1397"/>
+	<SubTexture name="error0015" x="0" y="0" width="1920" height="1397"/>
+</TextureAtlas>
